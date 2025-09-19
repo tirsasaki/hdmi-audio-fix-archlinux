@@ -1,4 +1,4 @@
-# HDMI Audio Fix for Linux (KDE Plasma)
+# HDMI Audio Fix for EndeavourOS (KDE Plasma)
 
 ## Problem Description
 
