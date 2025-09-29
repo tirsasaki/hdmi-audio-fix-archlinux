@@ -53,4 +53,3 @@ After applying the kernel parameters:
 If you found this solution helpful or have additional fixes for similar issues, feel free to contribute!
 
 ---
-**Keywords**: Linux, HDMI audio, KDE Plasma, GNOME, PipeWire, PulseAudio, EndeavourOS, Arch Linux, Ubuntu, Fedora, Debian, Intel graphics, NVIDIA, AMD, audio fix
